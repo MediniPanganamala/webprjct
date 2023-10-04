@@ -1,0 +1,33 @@
+ [{
+    "_id": "1",
+    "name": "John Smith",
+    "location": "Mumbai, India",
+    "quote": "I've been practicing yoga for years, and this website has been an incredible resource for both beginners and experienced yogis. The content is top-notch, and the guided sessions are amazing.",
+    "image": "https://images.pexels.com/users/avatars/2297095/pavel-danilyuk-690.jpeg?auto=compress&fit=crop&h=50&w=50&dpr=2",
+    "date": "10-06-2023"
+  },
+  {
+    "_id": "2",
+    "name": "Emily Davis",
+    "location": "Delhi, India",
+    "quote": "I stumbled upon this yoga website, and it's been a game-changer for my practice. The instructional videos are clear, and the articles provide valuable insights. Highly recommended!",
+    "image": "https://images.pexels.com/photos/4908995/pexels-photo-4908995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "date": "20-07-2023"
+  },
+  {
+    "_id": "3",
+    "name": "Amit Patel",
+    "location": "Mumbai, India",
+    "quote": "As a yoga teacher, I often refer my students to this website for additional resources and inspiration. The variety of yoga styles and well-structured content make it an excellent platform for anyone interested in yoga.",
+    "image": "https://images.pexels.com/photos/8436975/pexels-photo-8436975.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "date": "10-06-2023"
+  },
+  {
+    "_id": "4",
+    "name": "Sophie Walker",
+    "location": "Bangalore, India",
+    "quote": "This yoga website has become my go-to place for relaxation and self-care. The meditation and breathing exercises have helped me manage stress better. It's a true gem for those seeking inner peace.",
+    "image": "https://images.pexels.com/photos/6298351/pexels-photo-6298351.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "date": "05-05-2023"
+  }
+] 
